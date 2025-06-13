@@ -24,6 +24,4 @@ Hi, I coded you a nitro generator.
 📦 The requirements :
 ------------------------------
 
-pip install colorama
-pip install requests
-pip install pyfiglet
+pip install colorama requests pyfiglet
