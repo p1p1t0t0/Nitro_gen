@@ -1,5 +1,5 @@
 ==============================
-🔥 Discord Token Generator - by p1p1t0t0
+🔥 Discord nitro Generator - by p1p1t0t0
 ==============================
 
 Hi, I coded you a nitro generator. 
@@ -18,7 +18,7 @@ Hi, I coded you a nitro generator.
 
 2. Then run the script :
 
-    python token_gen.py
+    python nitro.py
 
 ------------------------------
 📦 The requirements :
